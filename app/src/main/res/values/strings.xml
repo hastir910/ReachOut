@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Brand & Identity -->
+    <string name="app_name">ReachOut</string>
+    <string name="app_subtitle">Community Assistance</string>
+    <string name="app_tagline">Offline-First Community Support &amp; Emergency Aid</string>
+
+    <!-- Home Screen Category Labels -->
+    <string name="home_medical_help">Medical Help</string>
+    <string name="home_transport_help">Transport Help</string>
+    <string name="home_agricultural_help">Agricultural Assistance</string>
+    <string name="home_vehicle_breakdown">Vehicle Breakdown</string>
+    <string name="home_community_support">Community Support</string>
+    <string name="home_contact_directory">Contact Directory</string>
+    <string name="home_safe_places_map">Safe Places Map</string>
+    <string name="home_emergency_help">Emergency Help</string>
+    <string name="home_emergency_subtitle">Immediate emergency assistance &amp; hotlines</string>
+    <string name="home_saved_offline_info">Saved Offline Info</string>
+    <string name="home_my_requests">My Requests</string>
+    <string name="home_language_settings">Language Settings</string>
+    <string name="home_settings">Settings</string>
+
+    <!-- Navigation Labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_directory">Directory</string>
+    <string name="nav_requests">Requests</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_back">Back</string>
+
+    <!-- Offline & Connectivity Indicators -->
+    <string name="offline_indicator_no_connection">You are offline. Showing saved information.</string>
+    <string name="offline_indicator_connection_unstable">Connection unstable.</string>
+    <string name="offline_indicator_back_online">Back online</string>
+    <string name="offline_mode_active">Offline Mode Active</string>
+    <string name="offline_cached_data_notice">Viewing cached data. Changes will sync when connected.</string>
+    <string name="offline_sync_in_progress">Syncing local changes…</string>
+    <string name="offline_sync_success">All data synchronized successfully.</string>
+
+    <!-- Request Statuses -->
+    <string name="status_draft">Draft</string>
+    <string name="status_saved_offline">Saved Offline</string>
+    <string name="status_pending_sync">Pending Sync</string>
+    <string name="status_sent_awaiting">Sent — Awaiting Response</string>
+    <string name="status_accepted">Accepted</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_failed">Sync Failed</string>
+    <string name="status_cancelled">Cancelled</string>
+
+    <!-- Verification Labels -->
+    <string name="verification_verified">Verified</string>
+    <string name="verification_unverified">Unverified</string>
+    <string name="verification_expired">Verification Expired</string>
+    <string name="verification_suspended">Suspended</string>
+
+    <!-- Place Verification Labels -->
+    <string name="place_verified_facility">Verified Facility</string>
+    <string name="place_verified_help_point">Verified Help Point</string>
+    <string name="place_unverified_listing">Community Listing</string>
+    <string name="place_not_recently_confirmed">Not Recently Confirmed</string>
+
+    <!-- Emergency Section Labels -->
+    <string name="emergency_title">Emergency Assistance</string>
+    <string name="emergency_subtitle">Tap to call national and local emergency services immediately</string>
+    <string name="emergency_police">Police</string>
+    <string name="emergency_police_number">112</string>
+    <string name="emergency_ambulance">Ambulance</string>
+    <string name="emergency_ambulance_number">108</string>
+    <string name="emergency_fire">Fire Service</string>
+    <string name="emergency_fire_number">101</string>
+    <string name="emergency_women_helpline">Women Helpline</string>
+    <string name="emergency_women_number">1091</string>
+    <string name="emergency_child_helpline">Child Helpline</string>
+    <string name="emergency_child_number">1098</string>
+    <string name="emergency_disaster">Disaster Management</string>
+    <string name="emergency_disaster_number">1077</string>
+    <string name="emergency_call_now">Call Now</string>
+    <string name="emergency_sos_broadcast">Send Emergency SOS</string>
+    <string name="emergency_sos_sent">Emergency SOS alert saved and broadcasted to local cache.</string>
+
+    <!-- Safety Warnings -->
+    <string name="safety_warning_title">Safety Advisory</string>
+    <string name="safety_warning_otp">Never share OTPs, passwords, or banking PINs with anyone.</string>
+    <string name="safety_warning_payment">Be cautious about advance payment requests from unknown contacts.</string>
+    <string name="safety_warning_verify">Verify a service provider before sharing personal details.</string>
+    <string name="safety_warning_public_meeting">Meet service providers in public, safe areas whenever possible.</string>
+    <string name="safety_warning_emergency_first">In life-threatening situations, dial emergency services immediately.</string>
+
+    <!-- Settings Labels -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">App Language</string>
+    <string name="settings_language_desc">Select your preferred Indian language</string>
+    <string name="settings_theme">Appearance</string>
+    <string name="settings_theme_system">System Default</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_offline_storage">Offline Storage</string>
+    <string name="settings_clear_cache">Clear Cached Data</string>
+    <string name="settings_cache_cleared">Cache cleared successfully.</string>
+    <string name="settings_sync_frequency">Sync Frequency</string>
+    <string name="settings_sync_wifi_only">Sync over Wi-Fi only</string>
+    <string name="settings_about">About ReachOut</string>
+    <string name="settings_version">Version 1.0 (Build 1)</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_terms">Terms of Service</string>
+
+    <!-- Common Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_report">Report</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_call">Call</string>
+    <string name="action_directions">Directions</string>
+    <string name="action_share">Share</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_view_all">View All</string>
+    <string name="action_clear">Clear</string>
+
+    <!-- Error Messages -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">Unable to connect to the network.</string>
+    <string name="error_sync_failed">Failed to sync changes. Will retry automatically.</string>
+    <string name="error_location_unavailable">Location services are currently unavailable.</string>
+    <string name="error_empty_field">This field cannot be empty.</string>
+    <string name="error_invalid_phone">Please enter a valid phone number.</string>
+    <string name="error_call_failed">Unable to initiate phone call on this device.</string>
+
+    <!-- Empty States -->
+    <string name="no_contacts_found">No emergency contacts found.</string>
+    <string name="no_places_found">No safe places found nearby.</string>
+    <string name="no_requests">No assistance requests yet.</string>
+    <string name="no_saved_info">No offline items saved.</string>
+    <string name="no_search_results">No results matching your query.</string>
+
+    <!-- Location Permission Messages -->
+    <string name="permission_location_rationale">ReachOut needs location access to show nearby safe places and community helpers.</string>
+    <string name="permission_location_denied">Location permission denied. Map and nearby features will be limited.</string>
+    <string name="permission_grant">Grant Permission</string>
+
+    <!-- Sample Data Indicator -->
+    <string name="sample_data_indicator">[SAMPLE DATA] This is demonstration data for development purposes.</string>
+
+    <!-- Coming Soon & Placeholders -->
+    <string name="coming_soon">Coming Soon</string>
+    <string name="placeholder_screen_subtitle">This feature is currently being developed and will be available offline.</string>
+
+    <!-- Assistance Types -->
+    <string name="assistance_type_medical">Medical Assistance</string>
+    <string name="assistance_type_transport">Transport Support</string>
+    <string name="assistance_type_agriculture">Agricultural Guidance &amp; Equipment</string>
+    <string name="assistance_type_breakdown">Vehicle Breakdown &amp; Towing</string>
+    <string name="assistance_type_community">Community Relief &amp; Volunteer</string>
+    <string name="assistance_type_emergency">Emergency Distress</string>
+</resources>

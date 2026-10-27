@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette (Trustworthy Blue) -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_variant">#1E88E5</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#D9E2FF</color>
+    <color name="on_primary_container">#001945</color>
+
+    <!-- Secondary Palette (Warm Orange/Amber for Emergency & Action) -->
+    <color name="secondary">#E65100</color>
+    <color name="secondary_variant">#FF8F00</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#FFDCC1</color>
+    <color name="on_secondary_container">#321200</color>
+
+    <!-- Tertiary Palette (Green for Verified/Safe) -->
+    <color name="tertiary">#2E7D32</color>
+    <color name="tertiary_variant">#43A047</color>
+    <color name="on_tertiary">#FFFFFF</color>
+    <color name="tertiary_container">#B8F3B6</color>
+    <color name="on_tertiary_container">#002204</color>
+
+    <!-- Error Palette -->
+    <color name="error">#C62828</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="error_container">#FFDAD6</color>
+    <color name="on_error_container">#410002</color>
+    <color name="emergency_red">#D32F2F</color>
+
+    <!-- Background & Surface -->
+    <color name="background">#F8F9FA</color>
+    <color name="on_background">#1A1C1E</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1A1C1E</color>
+    <color name="surface_variant">#E1E2EC</color>
+    <color name="on_surface_variant">#44474F</color>
+    <color name="outline">#74777F</color>
+
+    <!-- Offline & Network Status Banners -->
+    <color name="offline_banner_background">#FFF3E0</color>
+    <color name="offline_banner_text">#E65100</color>
+    <color name="online_banner_background">#E8F5E9</color>
+    <color name="online_banner_text">#2E7D32</color>
+    <color name="unstable_banner_background">#FFFDE7</color>
+    <color name="unstable_banner_text">#F57F17</color>
+
+    <!-- Verification Badges -->
+    <color name="badge_verified">#2E7D32</color>
+    <color name="badge_verified_bg">#E8F5E9</color>
+    <color name="badge_unverified">#757575</color>
+    <color name="badge_unverified_bg">#EEEEEE</color>
+    <color name="badge_expired">#E65100</color>
+    <color name="badge_expired_bg">#FFF3E0</color>
+    <color name="badge_suspended">#C62828</color>
+    <color name="badge_suspended_bg">#FFEBEE</color>
+
+    <!-- Home Category Accents -->
+    <color name="category_medical">#D32F2F</color>
+    <color name="category_transport">#1976D2</color>
+    <color name="category_agriculture">#388E3C</color>
+    <color name="category_breakdown">#F57C00</color>
+    <color name="category_community">#7B1FA2</color>
+    <color name="category_directory">#00796B</color>
+    <color name="category_map">#43A047</color>
+    <color name="category_saved">#0288D1</color>
+    <color name="category_requests">#FFA000</color>
+    <color name="category_language">#546E7A</color>
+    <color name="category_settings">#616161</color>
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Brand & Identity -->
+    <string name="app_name">ReachOut</string>
+    <string name="app_subtitle">सामुदायिक सहायता</string>
+    <string name="app_tagline">ऑफ़लाइन-प्रथम सामुदायिक सहायता एवं आपातकालीन सेवा</string>
+
+    <!-- Home Screen Category Labels -->
+    <string name="home_medical_help">चिकित्सा सहायता</string>
+    <string name="home_transport_help">परिवहन सहायता</string>
+    <string name="home_agricultural_help">कृषि सहायता</string>
+    <string name="home_vehicle_breakdown">वाहन खराबी सहायता</string>
+    <string name="home_community_support">सामुदायिक सहयोग</string>
+    <string name="home_contact_directory">संपर्क निर्देशिका</string>
+    <string name="home_safe_places_map">सुरक्षित स्थल मानचित्र</string>
+    <string name="home_emergency_help">आपातकालीन सहायता</string>
+    <string name="home_emergency_subtitle">तुरंत आपातकालीन सहायता और हेल्पलाइन</string>
+    <string name="home_saved_offline_info">सहेजी गई ऑफ़लाइन जानकारी</string>
+    <string name="home_my_requests">मेरे अनुरोध</string>
+    <string name="home_language_settings">भाषा सेटिंग्स</string>
+    <string name="home_settings">सेटिंग्स</string>
+
+    <!-- Navigation Labels -->
+    <string name="nav_home">होम</string>
+    <string name="nav_directory">निर्देशिका</string>
+    <string name="nav_requests">अनुरोध</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="action_back">वापस जाएं</string>
+
+    <!-- Offline & Connectivity Indicators -->
+    <string name="offline_indicator_no_connection">आप ऑफ़लाइन हैं। सहेजी गई जानकारी दिखाई जा रही है।</string>
+    <string name="offline_indicator_connection_unstable">इंटरनेट कनेक्शन अस्थिर है।</string>
+    <string name="offline_indicator_back_online">पुनः ऑनलाइन</string>
+    <string name="offline_mode_active">ऑफ़लाइन मोड सक्रिय</string>
+    <string name="offline_cached_data_notice">कैश्ड डेटा देखा जा रहा है। कनेक्ट होने पर बदलाव सिंक होंगे।</string>
+
+    <!-- Request Statuses -->
+    <string name="status_draft">प्रारूप</string>
+    <string name="status_saved_offline">ऑफ़लाइन सहेजा गया</string>
+    <string name="status_pending_sync">सिंक लंबित</string>
+    <string name="status_sent_awaiting">भेजा गया — प्रतिक्रिया की प्रतीक्षा</string>
+    <string name="status_accepted">स्वीकृत</string>
+    <string name="status_completed">पूर्ण</string>
+    <string name="status_failed">सिंक विफल</string>
+    <string name="status_cancelled">रद्द</string>
+
+    <!-- Verification Labels -->
+    <string name="verification_verified">सत्यापित</string>
+    <string name="verification_unverified">असत्यापित</string>
+    <string name="verification_expired">सत्यापन समाप्त</string>
+    <string name="verification_suspended">निलंबित</string>
+
+    <!-- Place Verification Labels -->
+    <string name="place_verified_facility">सत्यापित सुविधा</string>
+    <string name="place_verified_help_point">सत्यापित सहायता केंद्र</string>
+    <string name="place_unverified_listing">सामुदायिक सूची</string>
+    <string name="place_not_recently_confirmed">हाल ही में पुष्टि नहीं की गई</string>
+
+    <!-- Emergency Section Labels -->
+    <string name="emergency_title">आपातकालीन सहायता</string>
+    <string name="emergency_police">पुलिस</string>
+    <string name="emergency_ambulance">एम्बुलेंस</string>
+    <string name="emergency_fire">अग्निशामक दल</string>
+    <string name="emergency_women_helpline">महिला हेल्पलाइन</string>
+    <string name="emergency_child_helpline">बाल हेल्पलाइन</string>
+    <string name="emergency_disaster">आपदा प्रबंधन</string>
+    <string name="emergency_call_now">अभी कॉल करें</string>
+    <string name="emergency_sos_broadcast">आपातकालीन SOS भेजें</string>
+
+    <!-- Safety Warnings -->
+    <string name="safety_warning_title">सुरक्षा सलाह</string>
+    <string name="safety_warning_otp">किसी के साथ भी OTP, पासवर्ड या बैंक पिन साझा न करें।</string>
+    <string name="safety_warning_payment">अज्ञात संपर्कों से अग्रिम भुगतान के अनुरोधों से सावधान रहें।</string>
+    <string name="safety_warning_verify">व्यक्तिगत विवरण साझा करने से पहले सेवा प्रदाता को सत्यापित करें।</string>
+    <string name="safety_warning_public_meeting">यथासंभव सेवा प्रदाताओं से सार्वजनिक और सुरक्षित स्थानों पर ही मिलें।</string>
+
+    <!-- Common Actions -->
+    <string name="action_save">सहेजें</string>
+    <string name="action_cancel">रद्द करें</string>
+    <string name="action_retry">पुनः प्रयास करें</string>
+    <string name="action_report">रिपोर्ट करें</string>
+    <string name="action_search">खोजें</string>
+    <string name="action_filter">फ़िल्टर करें</string>
+    <string name="action_call">कॉल करें</string>
+    <string name="action_directions">दिशा-निर्देश</string>
+    <string name="action_share">साझा करें</string>
+    <string name="action_submit">सबमिट करें</string>
+    <string name="action_refresh">रीफ़्रेश करें</string>
+    <string name="action_delete">हटाएं</string>
+    <string name="action_confirm">पुष्टि करें</string>
+
+    <!-- Key Error Messages & Empty States -->
+    <string name="error_generic">कुछ गलत हो गया। कृपया पुनः प्रयास करें।</string>
+    <string name="error_network">नेटवर्क से जुड़ने में असमर्थ।</string>
+    <string name="error_sync_failed">बदलाव सिंक करने में विफल। स्वतः पुनः प्रयास किया जाएगा।</string>
+    <string name="error_empty_field">यह फ़ील्ड खाली नहीं हो सकती।</string>
+    <string name="error_invalid_phone">कृपया मान्य फ़ोन नंबर दर्ज करें।</string>
+    <string name="no_contacts_found">कोई आपातकालीन संपर्क नहीं मिला।</string>
+    <string name="no_places_found">आस-पास कोई सुरक्षित स्थान नहीं मिला।</string>
+    <string name="no_requests">अभी कोई सहायता अनुरोध नहीं है।</string>
+
+    <!-- Sample Data & Placeholders -->
+    <string name="sample_data_indicator">[नमूना डेटा] यह विकास उद्देश्यों के लिए केवल प्रदर्शन डेटा है।</string>
+    <string name="coming_soon">जल्द आ रहा है</string>
+    <string name="placeholder_screen_subtitle">यह सुविधा वर्तमान में विकसित की जा रही है और जल्द ही ऑफ़लाइन उपलब्ध होगी।</string>
+</resources>
